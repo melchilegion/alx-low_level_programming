@@ -2,6 +2,7 @@
  * File: 0-putchar.c
  * Auth: melchilegion
  */
+#include <main.h>
 #include "main.h"
 
 /**
