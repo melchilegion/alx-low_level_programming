@@ -3,6 +3,7 @@
  * Auth: melchilegion
  */
 #include "main.h"
+
 /**
  * main - This code prints _putchar
  * Return: 0 on (success)
